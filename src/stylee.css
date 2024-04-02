@@ -55,7 +55,11 @@ nav a {
 }
 
 .warning-details {
+  background-color: rgb(221, 245, 172);
+  border-radius: 10px;
   text-align: center;
+  margin-top: 25px;
+  padding: 2px;
 }
 
 .login-btn:hover {
