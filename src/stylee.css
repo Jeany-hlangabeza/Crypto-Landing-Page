@@ -108,15 +108,13 @@ footer p {
   color: rgb(127, 173, 58);
   background-color: white;
   cursor: pointer;
+  transition: all ease-in-out 200ms;
 }
 .SignUp-btn:hover {
   color: white;
   background-color: rgb(127, 173, 58);
   cursor: pointer;
-}
-
-footer .get-started-btn:hover {
-  cursor: pointer;
+  transition: all ease-in-out 200ms;
 }
 
 nav a::after {
